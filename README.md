@@ -5,7 +5,7 @@
 
 #### mongodb
 - gradle
-```
+```java
    compile('org.springframework.boot:spring-boot-starter-data-mongodb')
    
    testCompile('de.flapdoodle.embed:de.flapdoodle.embed.mongo')
